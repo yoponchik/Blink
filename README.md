@@ -8,6 +8,8 @@ _A horror-movie-inspired eye tracking program that changes pictures by detecting
 
 <h2>Project Details:</h2>
 
+**Project Date:** 2021.01 - 2021.02
+
 **Dev Tools:** OpenCV, Dlib
 
 **Programming Language:** Python
